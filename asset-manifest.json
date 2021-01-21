@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/termy_/static/css/main.19cb8f6f.chunk.css",
+    "main.js": "/termy_/static/js/main.d8d4d24f.chunk.js",
+    "main.js.map": "/termy_/static/js/main.d8d4d24f.chunk.js.map",
+    "runtime-main.js": "/termy_/static/js/runtime-main.19e00dc3.js",
+    "runtime-main.js.map": "/termy_/static/js/runtime-main.19e00dc3.js.map",
+    "static/js/2.13b6c5c6.chunk.js": "/termy_/static/js/2.13b6c5c6.chunk.js",
+    "static/js/2.13b6c5c6.chunk.js.map": "/termy_/static/js/2.13b6c5c6.chunk.js.map",
+    "index.html": "/termy_/index.html",
+    "static/css/main.19cb8f6f.chunk.css.map": "/termy_/static/css/main.19cb8f6f.chunk.css.map",
+    "static/js/2.13b6c5c6.chunk.js.LICENSE.txt": "/termy_/static/js/2.13b6c5c6.chunk.js.LICENSE.txt",
+    "static/media/termylogo.d3ec61bd.png": "/termy_/static/media/termylogo.d3ec61bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e00dc3.js",
+    "static/js/2.13b6c5c6.chunk.js",
+    "static/css/main.19cb8f6f.chunk.css",
+    "static/js/main.d8d4d24f.chunk.js"
+  ]
+}
