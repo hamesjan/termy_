@@ -1,0 +1,35 @@
+.Outer {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  border-radius: 25px;
+  background-color: cornflowerblue;
+  border: 8px solid white;
+  user-select: none;
+}
+
+.Outer:hover {
+  background-color: blue;
+}
+
+.Text {
+  font-size: 100px;
+  color: white;
+  left: 10px;
+  position: relative;
+}
+.Challenge {
+  text-align: center;
+  text-shadow: 1px 1px white;
+  color: cornflowerblue;
+  border-radius: 25px;
+  width: 220px;
+}
+.Spacer {
+  height: 200px;
+  margin: auto;
+}
+.Last {
+  position: absolute;
+  left: 100px;
+}
